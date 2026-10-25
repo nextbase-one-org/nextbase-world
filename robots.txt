@@ -16,4 +16,4 @@ Disallow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://nextbase-one-ha.github.io/nextbase-world/sitemap.xml
+Sitemap: https://nextbase-one-org.github.io/nextbase-world/sitemap.xml
